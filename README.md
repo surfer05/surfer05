@@ -21,12 +21,12 @@
 </div>
 ---
 
-### :man_technologist: About Me : I am a Smart Contract Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+### :man_technologist: About Me : I am a Web3 Security Researcher <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-- :telescope: I’m currently working as a Smart Contract Developer and contributing to software developement and backend for HashStack as an Intern.
+- :telescope: I worked as a Smart Contract developer, both in Solidity and Cairo, for Hashstack previously.
 
-- :seedling: Exploring web3 security and applied cryptography.
+- :seedling: Deep diving into Smart Contract Security.
 
-- :zap: In my free time, I read threads on Twitter, solve problems of GeeksForGeeks and read tech articles.
+- :zap: In my free time, I read threads on Twitter, and build some zk-stuff.
 
 - :mailbox:How to reach me: [![Twitter Badge](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/surfer__05)
