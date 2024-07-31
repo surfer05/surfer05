@@ -26,7 +26,7 @@
 - :telescope: Ask me about Zk-proofs, Defi, Maths, Rust, Solidity, Cryptograhy.
 
 - :seedling: Deep Diving into cryptography and mathematics.
-- 
+  
 - :zap: In my free time, I learn some ML stuff, hunt for bug-bounties, and post on twitter.
 
 - :mailbox:How to reach me: [![Twitter Badge](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/surfer__05)
