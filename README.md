@@ -21,12 +21,12 @@
 </div>
 ---
 
-### :man_technologist: About Me : I am a Web3 Security Researcher <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+### :man_technologist: About Me : Working on Zero-Knowledge arithmetics
 
-- :telescope: I worked as a Smart Contract developer, both in Solidity and Cairo, for Hashstack previously.
+- :telescope: Ask me about Zk-proofs, Defi, Maths, Rust, Solidity, Cryptograhy.
 
-- :seedling: Deep diving into Smart Contract Security.
-
-- :zap: In my free time, I read threads on Twitter, and build some zk-stuff.
+- :seedling: Deep Diving into cryptography and mathematics.
+- 
+- :zap: In my free time, I learn some ML stuff, hunt for bug-bounties, and post on twitter.
 
 - :mailbox:How to reach me: [![Twitter Badge](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/surfer__05)
