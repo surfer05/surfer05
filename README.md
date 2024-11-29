@@ -19,9 +19,9 @@
 </div>
 ---
 
-### :man_technologist: About Me : Working on Zero-Knowledge arithmetics
+### :man_technologist: About Me : Working on Zero-Knowledge Cryptography
 
-- :telescope: Ask me about Zk-proofs, Defi, Maths, Rust, Solidity, Cryptograhy.
+- :telescope: Ask me about Zk, Defi, Maths, Rust, Solidity, Cryptograhy.
 
 - :seedling: Deep Diving into cryptography and mathematics.
   
