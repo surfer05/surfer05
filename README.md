@@ -7,11 +7,11 @@
 </div>
 
 
-### :man_technologist: About Me : Working on Zero-Knowledge Cryptography
+### Working on Zero-Knowledge Cryptography
 
-- Interests : Zk, Defi, Maths, Rust, Solidity, Cryptograhy.
+- Interests : Zk, Defi, Maths, Rust, Solidity, Cryptograhy, Finance.
 
 - Deep Diving into cryptography and mathematics.
   
 
-- :mailbox:How to reach me: [![Twitter Badge](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/surfer__05)
+- How to reach me: [![Twitter Badge](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/surfer__05)
