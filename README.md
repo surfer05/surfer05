@@ -9,9 +9,9 @@
 
 ### :man_technologist: About Me : Working on Zero-Knowledge Cryptography
 
-- :telescope: Ask me about Zk, Defi, Maths, Rust, Solidity, Cryptograhy.
+- Interests : Zk, Defi, Maths, Rust, Solidity, Cryptograhy.
 
-- :seedling: Deep Diving into cryptography and mathematics.
+- Deep Diving into cryptography and mathematics.
   
-- :zap: In my free time, sorry, but no free time :)
+
 - :mailbox:How to reach me: [![Twitter Badge](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/surfer__05)
