@@ -9,9 +9,8 @@
 
 ### Working on Zero-Knowledge Cryptography
 
-- Interests : Zk, Defi, Maths, Rust, Solidity, Cryptograhy, Finance.
+- Interests : Zk, Defi, Maths, Rust, Formal Verification, Cryptograhy.
 
 - Deep Diving into cryptography and mathematics.
-  
-
+- 
 - How to reach me: [![Twitter Badge](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/surfer__05)
